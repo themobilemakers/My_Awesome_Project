@@ -12,6 +12,7 @@
 		B129311519916C2500B38E5B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B129311319916C2500B38E5B /* Main.storyboard */; };
 		B129311719916C2500B38E5B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B129311619916C2500B38E5B /* Images.xcassets */; };
 		B129312319916C2500B38E5B /* My_Awesome_ProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B129312219916C2500B38E5B /* My_Awesome_ProjectTests.swift */; };
+		B129312D19916D6400B38E5B /* NewFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = B129312C19916D6400B38E5B /* NewFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +35,7 @@
 		B129311C19916C2500B38E5B /* My_Awesome_ProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = My_Awesome_ProjectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B129312119916C2500B38E5B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B129312219916C2500B38E5B /* My_Awesome_ProjectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = My_Awesome_ProjectTests.swift; sourceTree = "<group>"; };
+		B129312C19916D6400B38E5B /* NewFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 		B129310119916C2500B38E5B = {
 			isa = PBXGroup;
 			children = (
+				B129312C19916D6400B38E5B /* NewFile.swift */,
 				B129310C19916C2500B38E5B /* My_Awesome_Project */,
 				B129311F19916C2500B38E5B /* My_Awesome_ProjectTests */,
 				B129310B19916C2500B38E5B /* Products */,
@@ -210,6 +213,7 @@
 			files = (
 				B129311219916C2500B38E5B /* ViewController.swift in Sources */,
 				B129311019916C2500B38E5B /* AppDelegate.swift in Sources */,
+				B129312D19916D6400B38E5B /* NewFile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
